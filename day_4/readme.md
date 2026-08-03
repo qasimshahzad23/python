@@ -1,3 +1,4 @@
+# Day 3 Internship Task
 
 # 📊 Student Performance Analysis - Python Code
 
@@ -130,6 +131,7 @@ plt.ylabel("Final Score")
 
 plt.show()
 ```
+
 # 📊 Student Performance Analysis Using Python & Pandas
 
 ## Student Performance Dataset
@@ -154,7 +156,7 @@ STUDENT PERFORMANCE DATASET
 
 # Dataset Information
 
-```
+```text
 <class 'pandas.DataFrame'>
 
 RangeIndex: 30 entries, 0 to 29
@@ -312,16 +314,19 @@ Students with higher attendance generally achieve higher final exam scores.
 ### 1. Final Score Distribution
 
 Shows how students' final scores are distributed.
+
 ![alt text](image_1.png)
 
 ### 2. Average Final Score by Course
 
 Compares the average final score of each course.
+
 ![alt text](image_2.png)
 
 ### 3. Attendance vs Final Score
 
 Shows the relationship between attendance and final score using a scatter plot.
+
 ![alt text](image_3.png)
 
 ---
