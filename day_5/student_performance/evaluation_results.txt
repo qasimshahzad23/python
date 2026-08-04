@@ -1,0 +1,18 @@
+STUDENT PERFORMANCE PREDICTION - EVALUATION RESULTS
+=======================================================
+
+Accuracy: 95.00%
+
+Confusion Matrix:
+[[ 2  2]
+ [ 1 55]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.67      0.50      0.57         4
+        Pass       0.96      0.98      0.97        56
+
+    accuracy                           0.95        60
+   macro avg       0.82      0.74      0.77        60
+weighted avg       0.95      0.95      0.95        60
